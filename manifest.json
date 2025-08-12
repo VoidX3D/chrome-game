@@ -1,0 +1,9 @@
+{
+  "name": "Premium Dino Game",
+  "short_name": "Dino",
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "#87ceeb",
+  "theme_color": "#87ceeb",
+  "icons": []
+}
